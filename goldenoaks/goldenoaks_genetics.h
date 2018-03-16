@@ -39,3 +39,5 @@ namespace goldenoaks {
 		std::map<unsigned int, ConnectionGene<t_weights>> connections;
 	};
 }
+
+//committest
