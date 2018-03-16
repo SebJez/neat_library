@@ -6,7 +6,7 @@
  General idea:
  Neuron takes a linear combination of its inputs (i.e. weighted sum) and applies its activation function (with arbitrary mutable parameters e.g. threshold for on/off activation).
 
-`[](\twicrazy)`
+`[](/twicrazy)`
 
 Goal: try it on a function space
 
