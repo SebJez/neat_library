@@ -36,6 +36,6 @@ namespace goldenoaks {
 	{
 	public:
 		std::map<unsigned int, NodeGene<t_activationParameters>> nodes;
-		std::map<unsigned int, ConnectionGene<t_weights>> connections;
+		std::map<unsigned int, ConnectionGene> connections;
 	};
 }

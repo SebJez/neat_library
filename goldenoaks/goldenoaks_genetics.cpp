@@ -10,6 +10,18 @@ goldenoaks::NodeGene<t_activationParameters>::NodeGene(unsigned int id, char typ
 }
 
 template<type t_activationParameters>
+unsigned int goldenoaks::NodeGene<t_activationParameters>::id()
+{
+	return nodeID;
+}
+
+template<type t_activationParameters>
+char goldenoaks::NodeGene<t_activationParameters>::type()
+{
+	return nodeType;
+}
+
+template<type t_activationParameters>
 t_activationParameters goldenoaks::NodeGene<t_activationParameters>::activationParameters()
 {
 	return activationData;

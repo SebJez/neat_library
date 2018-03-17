@@ -7,8 +7,8 @@ namespace goldenoaks
 	{
 	public:
 		Node(unsigned int id, t_activationParameters activationParameters);
-		Node(unsigned int id, Genome genome)
-			t_data output();
+		Node(unsigned int id, Genome genome);
+		t_data output();
 		virtual void evaluate() = 0;
 		std::list<Connection> inputs;
 
