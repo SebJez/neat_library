@@ -1,0 +1,27 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[2,0],
+"classes.html":[2,1],
+"classgoldenoaks_1_1connection_gene.html":[2,0,0,0],
+"classgoldenoaks_1_1connection_gene.html#a177f297c776f27f57e954585b5d21b1d":[2,0,0,0,0],
+"dir_4511f31e6f482e160c73e51dfd5f51da.html":[3,0,0],
+"files.html":[3,0],
+"functions.html":[2,2,0],
+"functions_vars.html":[2,2,1],
+"goldenoaks__genetics_8cpp.html":[3,0,0,0],
+"goldenoaks__genetics_8cpp_source.html":[3,0,0,0],
+"goldenoaks__genetics_8h.html":[3,0,0,1],
+"goldenoaks__genetics_8h_source.html":[3,0,0,1],
+"goldenoaks__networks_8cpp.html":[3,0,0,2],
+"goldenoaks__networks_8cpp_source.html":[3,0,0,2],
+"goldenoaks__networks_8h.html":[3,0,0,3],
+"goldenoaks__networks_8h_source.html":[3,0,0,3],
+"index.html":[],
+"md__r_e_a_d_m_e.html":[0],
+"namespacegoldenoaks.html":[2,0,0],
+"namespacegoldenoaks.html":[1,0,0],
+"namespaces.html":[1,0],
+"pages.html":[],
+"structgoldenoaks_1_1connection_genome.html":[2,0,0,1],
+"structgoldenoaks_1_1connection_genome.html#a174bd6323efdcd2fc5b7397ff820257d":[2,0,0,1,0]
+};

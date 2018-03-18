@@ -78,6 +78,9 @@
     <ClInclude Include="goldenoaks_genetics.h" />
     <ClInclude Include="goldenoaks_networks.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="DoxyFile" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
