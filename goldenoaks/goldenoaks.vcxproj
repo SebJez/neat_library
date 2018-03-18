@@ -72,6 +72,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="goldenoaks_genetics.cpp" />
+    <ClCompile Include="goldenoaks_networks.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="goldenoaks_genetics.h" />

@@ -18,6 +18,9 @@
     <ClCompile Include="goldenoaks_genetics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="goldenoaks_networks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="goldenoaks_genetics.h">

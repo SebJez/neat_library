@@ -1,10 +1,11 @@
 #pragma once
 #pragma once
 #include <list>
+#include <map>
 #include <string>
 namespace goldenoaks {
 
-	template <type t_activationParameters> class NodeGene
+	template <typename t_activationParameters> class NodeGene
 	{
 	public:
 		NodeGene(unsigned int id, char type, t_activationParameters activationParameters);
@@ -32,9 +33,10 @@ namespace goldenoaks {
 
 	};
 
-	template <type t_activationParameters> class Genome
+	template <typename t_activationParameters> class Genome
 	{
 	public:
+		Genome(std::map<unsigned int, NodeGene<t_activationParameters>> nodes, std::map<unsigned int, ConnectionGene> connections);
 		std::map<unsigned int, NodeGene<t_activationParameters>> nodes;
 		std::map<unsigned int, ConnectionGene> connections;
 	};
